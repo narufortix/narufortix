@@ -14,6 +14,9 @@
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-GitHub-F05032?logo=git&logoColor=white)
 
+
+[![My Skills](https://skillicons.dev/icons?i=Linux,py,windows,vscode,ubuntu,powershell,github)](https://skillicons.dev)
+
 ## 🛠️ Stack tecnológico:
 
 **Lenguajes & Scripting:**
