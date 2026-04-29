@@ -37,7 +37,7 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
 ## 📫 Cómo contactarme:
-- **Email:** [juanpr31@gmail.com.com]
+- **Email:** [juanpr31@gmail.com]
 - **LinkedIn:** [linkedin.com/in/juan-palomino-rubio-183545399]
   
 
