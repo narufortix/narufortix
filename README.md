@@ -3,7 +3,7 @@
 ## 🎯 Actualmente:
 - 📚 Estudiando para **LPIC-1** (Administración Linux)
 - 🐍 Aprendiendo **Python** para la certificación PCAP
-- 🌐 Preparando **CCST de Cisco** (Fundamentos de redes)
+- 🌐 Preparando **CCST de Cisco** (Networking and Cybersecurity)
 - 🔒 Explorando **ciberseguridad y pentesting**
 
 ## 💻 Tecnologías que estoy aprendiendo:
