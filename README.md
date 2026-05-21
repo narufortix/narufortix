@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Juan Palomino]
+# 👋 Hola, soy Juan Palomino
 
 ## 🎯 Actualmente:
 - 📚 Estudiando para **LPIC-1** (Administración Linux)
