@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Palomino
+# 👋 NARUFORTIX
 
 ## 🎯 Actualmente:
 - 📚 Estudiando para **LPIC-1** (Administración Linux)
@@ -36,10 +36,7 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
-## 📫 Cómo contactarme:
-- **Email:** [juanpr31@gmail.com]
-- **LinkedIn:** [linkedin.com/in/juan-palomino-rubio-183545399]
-  
+
 
 ---
 **✨ "El conocimiento que no se comparte, pierde su valor"**
