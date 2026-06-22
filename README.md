@@ -1,4 +1,4 @@
-# 👋 NARUFORTIX
+#  NARUFORTIX
 
 ## 🎯 Actualmente:
 - 📚 Estudiando para **LPIC-1** (Administración Linux)
