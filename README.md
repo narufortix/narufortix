@@ -1,9 +1,12 @@
-#  NARUFORTIX
+# NARUFORTIX
 
-## 🎯 Actualmente:
+## 💼 Buscando
+- 🖧 Rol de **Administrador Junior de Redes**
+
+## 🎯 Actualmente
 - 📚 Estudiando para **LPIC-1** (Administración Linux)
 - 🐍 Aprendiendo **Python** para la certificación PCAP
-- 🌐 Preparando **CCST de Cisco** (Networking and Cybersecurity)
+- 🌐 Preparando **CCST de Cisco** (Cybersecurity)
 - 🔒 Explorando **ciberseguridad y pentesting**
 
 ## 💻 Tecnologías que estoy aprendiendo:
